@@ -1,3 +1,4 @@
-## To deploy to fly.io:
+## Music Quiz telegram bot
 
-Just run `fly deploy`
+You can play with the bot here: http://t.me/MusicQuizzerbot
+To deploy the new version, just run: `fly deploy`
